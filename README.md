@@ -29,11 +29,16 @@ Dedicated to advancing my expertise in cybersecurity and networking, currently s
 </div>
 
 ## Certifications
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Frameworks and Standards
+
+<div>
+    <img src="https://img.shields.io/badge/-NIST%20SP%20800--53-0072CE?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NIST%20SP%20800--61-0072CE?&style=for-the-badge&logoColor=white" />
+</div>
+
