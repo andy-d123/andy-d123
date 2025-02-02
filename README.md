@@ -12,9 +12,7 @@ Dedicated to advancing my expertise in cybersecurity and networking, currently s
 
 | Projects                                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/andy-d123/Home-Lab-1">Home Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Cybersecurity Homelab Setup          | <a href="https://github.com/andy-d123/Home-Lab-1">Home Lab</a>|
 
 ## Tools
 
