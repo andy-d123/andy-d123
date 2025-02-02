@@ -8,7 +8,6 @@ I am a recent graduate with a Bachelor of Science in Cybersecurity, and certifie
 Dedicated to advancing my expertise in cybersecurity and networking, currently studying for the CCNA and building hands-on experience through home labs. My goal is to secure a full-time role in cybersecurity or networking where I can apply and grow my skills while contributing to organizational security and infrastructure.
 
 ## Projects
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Projects                                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
